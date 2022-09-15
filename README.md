@@ -4,7 +4,7 @@
 
 ## Responsive visualizer built using React for popular algorithms
 
-<a href="https://sadanandpai.github.io/sorting-visualizer/dist/"><img src="cover.png" alt="cover" /></a>
+<a href="https://sort-it-out.netlify.app/"><img src="cover.png" alt="cover" /></a>
 [See it in action](https://sort-it-out.netlify.app/)
 
 ---
@@ -35,7 +35,7 @@ Features
 
 ### Features built using
 
-- Animations are done using pure CSS and uses [FLIP principle](https://aerotwist.com/blog/flip-your-animations/)
+- Animations are done using pure CSS
 - Flex is used for array display and manipulation of positions (flex order property)
 - JavaScript async generators are used heavily for the controlled execution of algorithms
 
